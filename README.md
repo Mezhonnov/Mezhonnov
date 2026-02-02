@@ -1,16 +1,23 @@
-## Hi there 👋
+## 👋 Hi, ich bin Sergei
 
-<!--
-**Mezhonnov/Mezhonnov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Data Analyst / BI Analyst/ Data Engineer mit Werkstudent-Erfahrung bei **Siemens Energy**.  
+Mein Fokus liegt auf **Datenaufbereitung, Reporting und Business Intelligence**, insbesondere mit **SQL, Python und Power BI**.
 
-Here are some ideas to get you started:
+🎯 **Schwerpunkte**
+- Analyse und Aufbereitung strukturierter Daten
+- Entwicklung von ETL/ELT-Prozessen
+- Aufbau relationaler Datenmodelle
+- Erstellung interaktiver Dashboards & KPIs
+- Datenbankentwicklung
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 **Tech Stack**
+- **Sprachen:** Python, SQL  
+- **BI & Analyse:** Power BI, Pandas, NumPy, Excel  
+- **Datenbanken:** PostgreSQL, MS SQL Server, MS Access  
+- **Tools:** Databricks, MS Fabric, Jupyter, SAP
+
+📊 In meinen Repositories findest du Portfolio-Projekte rund um  
+Data Analytics, BI-Dashboards und datengetriebene Entscheidungsunterstützung.
+
+📍 Standort: Fürth, Deutschland  
+🌍 Sprachen: Deutsch (C1), Englisch (B2), Russisch (Native)
